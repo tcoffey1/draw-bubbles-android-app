@@ -1,0 +1,16 @@
+<!-- Author:   Tadhg Coffey
+//   Date  :   3/26/14
+//   Homework assignment : 6
+//   File: dimens.xml from Draw Bubbles
+//   Objective : To draw bubbles (circles) of different, size,
+//      color and position when the user clicks a button. A clear
+//      button deletes all.
+//****************************************************************
+-->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    </resources>

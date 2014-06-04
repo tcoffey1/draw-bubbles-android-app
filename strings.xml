@@ -1,0 +1,18 @@
+<!-- Author:   Tadhg Coffey
+//   Date  :   3/26/14
+//   Homework assignment : 6
+//   File: strings.xml from Draw Bubbles
+//   Objective : To draw bubbles (circles) of different, size,
+//      color and position when the user clicks a button. A clear
+//      button deletes all.
+//****************************************************************
+-->
+
+<resources>
+
+    <string name="app_name">Draw Bubbles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_draw_view">DrawView</string>
+
+</resources>

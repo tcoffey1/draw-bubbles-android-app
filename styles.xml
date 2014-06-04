@@ -1,0 +1,18 @@
+<!-- Author:   Tadhg Coffey
+//   Date  :   3/26/14
+//   Homework assignment : 6
+//   File: styles.xml from Draw Bubbles
+//   Objective : To draw bubbles (circles) of different, size,
+//      color and position when the user clicks a button. A clear
+//      button deletes all.
+//****************************************************************
+-->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
